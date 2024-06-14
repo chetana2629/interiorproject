@@ -1,0 +1,15 @@
+.portfolio-grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.portfolio-item {
+  flex: 1 0 25%;
+  margin: 10px;
+  text-align: center;
+}
+
+.portfolio-item img {
+  width: 100%;
+  height: auto;
+}

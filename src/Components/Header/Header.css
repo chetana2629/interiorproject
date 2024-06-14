@@ -1,0 +1,13 @@
+.nav-link {
+  color: #16a085;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover, .nav-link:focus {
+  color: #1abc9c;
+}
+
+.logo-img {
+  height: 50px;
+}
